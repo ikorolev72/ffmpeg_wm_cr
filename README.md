@@ -1,7 +1,7 @@
 #   ffmpeg tool for watermark and text copyright
 
 ##  What is it?
-This script add watermark and copyright to your video
+This script add watermark and copyright to your video with fade effect
 
 
 * Version 1.0 2017.03.09
